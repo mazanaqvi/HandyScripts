@@ -21,6 +21,9 @@ Here's a sneak peek into the magical arsenal:
 - **`make_global_copy.sh`** 🌍  
   The ultimate tool to make any script globally accessible. Use this script to copy your favorite scripts to a global directory, make them executable, and ensure they're always within your reach.  
 
+- **`deploy.sh`** 🏆  
+  Automate your deployment like a pro! This script commits your changes (with a message), pushes them to the repository, builds your Flutter web project, and deploys it to Firebase—all in one go. A must-have for hassle-free deployments.  
+
 - More enchanting scripts coming soon... 🛠️✨  
 
 ---
@@ -45,6 +48,26 @@ Here's a sneak peek into the magical arsenal:
 
 4. **Run Your Script from Anywhere**:  
    Once the process is complete, you can use your script globally by simply typing its name!  
+
+### Automate Deployment with `deploy.sh`
+
+1. **Prepare Your Project**:  
+   Make sure your Flutter project and Firebase setup are ready.  
+
+2. **Run the Script**:  
+   ```bash
+   ./deploy.sh "Your commit message here"
+   ```
+
+3. **Sit Back and Relax**:  
+   The script will:
+   - Add and commit any changes with your provided message.
+   - Push the changes to the repository.
+   - Build the Flutter web project in release mode.
+   - Deploy it to Firebase.  
+
+4. **Enjoy the Success Message**:  
+   Once the deployment is complete, you’ll see a friendly message congratulating you. 😉  
 
 ---
 
