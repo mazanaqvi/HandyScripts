@@ -18,7 +18,7 @@ Here's a sneak peek into the magical arsenal:
 - **`wireless.sh`** 📨🎧  
   A script to connect your Android device wirelessly via ADB. No USB cables, no hassle—just pure wireless bliss.  
 
-- **`make_global_copy.sh`** 🌍  
+- **`make_global.sh`** 🌍  
   The ultimate tool to make any script globally accessible. Use this script to copy your favorite scripts to a global directory, make them executable, and ensure they're always within your reach.  
 
 - **`deploy.sh`** 🏆  
@@ -38,9 +38,9 @@ Here's a sneak peek into the magical arsenal:
    cd HandyScripts
    ```
 
-2. **Run the `make_global_copy.sh` Script**:  
+2. **Run the `make_global.sh` Script**:  
    ```bash
-   ./make_global_copy.sh
+   ./make_global.sh
    ```
 
 3. **Follow the Prompts**:  
