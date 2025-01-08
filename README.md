@@ -16,13 +16,10 @@ Whether you're a seasoned developer or just stepping into the CLI realm, these s
 Here's a sneak peek into the magical arsenal:  
 
 - **`wireless.sh`** 📨🎧  
-  A script to connect your Android device wirelessly via ADB. No USB cables, no hassle—just pure wireless bliss.
-   
-- **`deploy.sh`** 📨🎧  
-  A script to add commits push and deploy to firebase for the flutter project.  
+  A script to connect your Android device wirelessly via ADB. No USB cables, no hassle—just pure wireless bliss.  
 
 - **`make_global_copy.sh`** 🌍  
-  Want to run your favorite scripts from anywhere? This wizardry copies scripts to a global directory, makes them executable, and ensures they're always at your fingertips.  
+  The ultimate tool to make any script globally accessible. Use this script to copy your favorite scripts to a global directory, make them executable, and ensure they're always within your reach.  
 
 - More enchanting scripts coming soon... 🛠️✨  
 
@@ -30,24 +27,24 @@ Here's a sneak peek into the magical arsenal:
 
 ## 🟠 **How to Use These Scripts**
 
+### Making Your Script Globally Available with `make_global_copy.sh`
+
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/mazanaqvi/HandyScripts.git
+   git clone https://github.com/YourUsername/HandyScripts.git
    cd HandyScripts
    ```
 
-2. **Make the Scripts Executable**:  
+2. **Run the `make_global_copy.sh` Script**:  
    ```bash
-   chmod +x <script-name>.sh
+   ./make_global_copy.sh
    ```
 
-3. **Run the Scripts**:  
-   ```bash
-   ./<script-name>.sh
-   ```
+3. **Follow the Prompts**:  
+   The script will ask for the name of the script file you want to make global. It will handle copying the script to a global directory, making it executable, and ensuring your terminal recognizes it.  
 
-4. **Follow the Magic Prompts**:  
-   The scripts will guide you like a friendly wizard through every step. 🧙‍♀️✨  
+4. **Run Your Script from Anywhere**:  
+   Once the process is complete, you can use your script globally by simply typing its name!  
 
 ---
 
@@ -77,7 +74,13 @@ Let's build a community of script wizards together! 🪄
 
 If you love **HandyScripts** and want to help it grow, don’t forget to give it a ⭐! It means the world (and adds +10 wizard points 🧙) to us!  
 
+---
 
+## 🛡️ **License**
+
+This repository is licensed under the MIT License. Feel free to use, share, and modify these scripts as you like.  
+
+---
 
 ### 🧙 **"With great scripts comes great power. Use them wisely!"**  
 
