@@ -67,7 +67,7 @@ Here's a sneak peek into the magical arsenal:
    - Deploy it to Firebase.  
 
 4. **Enjoy the Success Message**:  
-   Once the deployment is complete, you’ll see a friendly message congratulating you. 😉  
+   Once the deployment is complete, you'll see a friendly message congratulating you. 😉  
 
 ---
 
@@ -76,7 +76,7 @@ Here's a sneak peek into the magical arsenal:
 - 🕒 **Save Time**: Automate repetitive tasks with ease.
 - 😄 **Have Fun**: Add some personality to your terminal sessions.
 - 🌍 **Universal Access**: Run your favorite scripts from anywhere.
-- 🧙‍♂️ **Feel Like a Wizard**: Because who doesn’t love a bit of terminal magic?  
+- 🧙‍♂️ **Feel Like a Wizard**: Because who doesn't love a bit of terminal magic?  
 
 ---
 
@@ -95,15 +95,9 @@ Let's build a community of script wizards together! 🪄
 
 ## 🌟 **Star the Repo**
 
-If you love **HandyScripts** and want to help it grow, don’t forget to give it a ⭐! It means the world (and adds +10 wizard points 🧙) to us!  
+If you love **HandyScripts** and want to help it grow, don't forget to give it a ⭐! It means the world (and adds +10 wizard points 🧙) to us!  
 
----
 
-## 🛡️ **License**
-
-This repository is licensed under the MIT License. Feel free to use, share, and modify these scripts as you like.  
-
----
 
 ### 🧙 **"With great scripts comes great power. Use them wisely!"**  
 
