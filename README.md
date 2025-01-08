@@ -31,7 +31,7 @@ Here's a sneak peek into the magical arsenal:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/YourUsername/HandyScripts.git
+   git clone https://github.com/mazanaqvi/HandyScripts.git
    cd HandyScripts
    ```
 
